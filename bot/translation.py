@@ -11,12 +11,11 @@ class Translation(object):
     
     HELP_TEXT = """
 <b><i>ഇവിടെ HELP ഒന്നുമില്ല നീ ഇത്രയും വലുതായി ഇല്ലേ പിന്നെ എന്തിനാ നിനക്ക് HELP 😜</i></b>
-
 <i>
 @filmcornermm.
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Rashmika mandanna Bot</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/smile_killer_010">SMILE KILLER</a></i></b>
 
