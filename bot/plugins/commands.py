@@ -30,7 +30,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = "നമ്മുടെ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യൂ @FILMCORNERMM",
+                caption = "👇നമ്മുടെ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യൂ👇",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
