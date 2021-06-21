@@ -30,7 +30,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = "👇നമ്മുടെ ചാനലിൽ ജോയിൻ ചെയ്യൂ👇",
+                caption = "👇നമ്മുടെ ഗ്രൂപ്പ്‌ ഷെയർ ചെയ്യൂ👇",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💘 CHANNEL 💘', url="https://t.me/publicchannalin"
+                                    '💘 SHARE 💘', url="https://telegram.me/share/url?url=https://t.me/filmcornermm"
                                 )
                         ]
                     ]
